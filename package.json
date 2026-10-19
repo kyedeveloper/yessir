@@ -1,0 +1,21 @@
+{
+  "name": "ZII CPANEL 🦅 WEB",
+  "version": "1.0.0",
+  "description": "Cpanel Zii Private",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Quenn Zii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^5.1.0",
+    "express-session": "^1.17.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "session-file-store": "^1.5.0"
+  }
+}
